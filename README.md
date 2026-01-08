@@ -8,7 +8,7 @@
 ![HomePage](https://github.com/maurangzaib774-sudo/Rent-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage2.PNG)
 <br> 
 
-![HomePage](https://github.com/maurangzaib774-sudo/Rent-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage3.PNG)
+![HomePage](https://github.com/maurangzaib774-sudo/Rent-Car-FrontEnd-Angular/tree/main/Readme-Images/HomePage3.PNG)
 <br> 
 
 ![HomePage](https://github.com/maurangzaib774-sudo/Rent-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage4.PNG)
